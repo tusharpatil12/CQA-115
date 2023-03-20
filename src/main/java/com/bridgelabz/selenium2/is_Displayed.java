@@ -27,7 +27,7 @@ public class is_Displayed {
         if (username == password) {
             System.out.println("Both username and password fields are displayed");
         } else {
-            System.out.println("username and password fields are NOT Displayed");
+            System.out.println("username and password fields are Not Displayed");
         }
         Thread.sleep(3000);
 
